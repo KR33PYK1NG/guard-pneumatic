@@ -1,0 +1,9 @@
+{
+    "minVersion": "0.8",
+    "refmap": "mixins.guard-pneumatic.refmap.json",
+    "package": "rmc.mixins.guard_pneumatic",
+    "mixins": [
+        "EntityVortexMixin",
+        "ItemVortexCannonMixin"
+    ]
+}
